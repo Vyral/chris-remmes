@@ -11,17 +11,15 @@ client:
   title:
   license_number:
   about_markdown: |
-    As a longtime resident of Boston, Chris Remmes is recognized as one of the leading residential brokers in the Boston market. Chris brings a professional approach as well as a service-oriented philosophy to his real estate practice. He has built an excellent reputation and developed a loyal customer following of past clients and referrals by serving them well.
-
-    His career in real estate started in 1998 in the mortgage lending business. During this time, he obtained his MBA from Boston University.  His knowledge of the real estate market and mortgage experience gives him a wide breadth of knowledge, which has helped him establish himself as a top broker in the Boston market. Chris works out of the Hammond Residential office in Charlestown; he is knowledgeable in all the downtown neighborhoods of Boston.
+    Chris works out of the Hammond Residential office in Charlestown; he is knowledgeable in all the downtown neighborhoods of Boston. " to "Chris is affiliated with Coldwell Banker Residential Brokerage, he is knowledgeable in all the downtown neighborhoods of Boston.
   market: Boston
   brand: Coldwell Banker
   brokerage:
   address: 105 Main St<br>Boston, MA 02129
-  phone: 617-337-9000
-  phone_type: Office
-  phone2: 617-398-0018
-  phone2_type: Cell
+  phone: 617-398-0018
+  phone_type:
+  phone2:
+  phone2_type:
   email: chris.remmes@nemoves.com
   url: http://chrisremmes.com
 
@@ -84,7 +82,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 20
-  hero_text: Boston Real Estate Video Blog
+  hero_text: The Boston Real Estate Journal
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
