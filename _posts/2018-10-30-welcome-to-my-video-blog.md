@@ -22,7 +22,7 @@ tags:
 
 I know what’s happening in Boston, specifically pertaining to home values, that will directly affect you.
 
-**So, I'll be posting two monthly video messages this blog to keep you updated.&nbsp;**
+**So, I'll be posting two monthly video messages on this blog to keep you updated.&nbsp;**
 
 They will be valuable and useful in helping you stay on top of what’s happening in the community.
 
