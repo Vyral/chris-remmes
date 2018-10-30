@@ -8,7 +8,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-house-real-estate-data-and-re-123908964.jpg
+youtube_alternate_image: /uploads/bigstock-house-real-estate-data-and-co-123908711.jpg
 layout: post
 title: Welcome To My Video Blog!
 date: 2018-10-30 00:00:00
@@ -17,8 +17,6 @@ tags:
   - Real Estate
   - Home Seller Tips
 ---
-
-Oct. 30, 2018
 
 **As fall is now underway, the market remains busy, and this season is an opportune time to command a high price selling your home. &nbsp;**
 
