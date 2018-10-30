@@ -8,7 +8,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 layout: post
-title: Welcome To My Blog
+title: Welcome To My Video Blog!
 date: 2018-10-30 00:00:00
 tags:
   - Market Update
