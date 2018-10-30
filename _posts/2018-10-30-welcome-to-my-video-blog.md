@@ -18,3 +18,18 @@ tags:
   - Home Seller Tips
 ---
 
+Oct. 30, 2018
+
+**As fall is now underway, the market remains busy, and this season is an opportune time to command a high price selling your home. &nbsp;**
+
+I know what’s happening in Boston, specifically pertaining to home values, that will directly affect you.
+
+So, I'll be posting two monthly video messages here to keep you updated.&nbsp;
+
+They will be valuable and useful in helping you stay on top of what’s happening in the community.
+
+You can also search all homes for sale on the MLS on my website- chrisremmes.com.&nbsp;
+
+Check back as content will be coming soon! I’m excited to keep you updated on what’s going on with Boston, and more specifically, Boston real estate.
+
+Let me know if you have any questions or if you’re thinking of buying or selling a home in Boston soon.
