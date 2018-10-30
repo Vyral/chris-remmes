@@ -7,7 +7,7 @@ enclosure:
 pullquote:
 enclosure_type:
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 layout: post
 title: Welcome To My Video Blog!
