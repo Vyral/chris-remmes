@@ -28,6 +28,10 @@ They will be valuable and useful in helping you stay on top of what’s happenin
 
 You can also search all homes for sale on the MLS on my website at chrisremmes.com.&nbsp;
 
-Check back as content will be coming soon! I’m excited to keep you updated on what’s going on with Boston, and more specifically, Boston real estate.
-
 Let me know if you have any questions or if you’re thinking of buying or selling a home in Boston soon.
+
+Check back because content will be coming soon!
+
+I’m excited to keep you updated on what’s going on with Boston, and more specifically, Boston real estate.
+
+&nbsp;
