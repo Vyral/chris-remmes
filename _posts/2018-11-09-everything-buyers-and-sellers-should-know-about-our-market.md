@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/gIkW6ez2k2g'
 
 {% include youtube.html %}
 
-Between recent political happenings, rising interest rates, and the decrease in buyer activity, many in our market are experiencing a little anxiety as a result of these developments.&nbsp;
+With recent political happenings, rising interest rates, and the decrease in buyer activity, many in our market are experiencing a little anxiety as a result of these developments.&nbsp;
 
 **Despite the fact that our market is slowing down, it hasn’t come to a halt.** It’s still a good time to buy or sell. With that in mind, many are wondering who currently has the advantage.&nbsp;
 
@@ -29,6 +29,6 @@ Actually, though inventory is creeping up slowly, it is still nowhere near the l
 
 Another major concern among those in our market is the direction of interest rates. With prices and interest rates both on the rise, **the key to getting a great deal on your next home is to partner with an experienced, local mortgage professional.&nbsp;**
 
-The bottom line is this: If you’re a buyer, it’s always a good time to make a home purchase—and right now is no exception. And if you’re a seller, you can still earn a good price for your listing, even though it may happen as quickly as in the recent past. People buy and sell real estate 12 months a year.&nbsp;
+The bottom line is this: If you’re a buyer, it’s always a good time to make a home purchase—and right now is no exception. And if you’re a seller, you can still earn a good price for your listing, even though it may not happen as quickly as in the recent past. People buy and sell real estate 12 months a year.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
