@@ -50,9 +50,7 @@ client:
   market: Boston
   brand: Coldwell Banker
   brokerage:
-  address: >-
-    <br> 2 Thomspon Square, Boston, MA 02129 <br> 10 Berkeley Street, Boston,
-    02116
+  address: '2 Thomspon Square, Boston, MA 02129 <br> 10 Berkeley Street, Boston, 02116'
   phone: 617-398-0018
   phone_type:
   phone2:
