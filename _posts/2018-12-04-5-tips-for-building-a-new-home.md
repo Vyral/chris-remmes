@@ -17,6 +17,6 @@ youtube_alternate_image:
 youtube_code: 'https://youtu.be/dIanFuZ1eiU'
 ---
 
-{% include youtube.html %}The current lack of existing inventory on the market has forced many homebuyers to begin looking at new construction. Seeing your home built before your eyes is a wonderful experience, but new construction purchases often come with unique hassles. If you're ready to build your next home, let's get together so we can help ensure that your next home-buying experience is hassle-free! To learn the 5 tips for buying new construction homes, watch this short video.&nbsp;
+{% include youtube.html %}**The current lack of existing inventory on the market has forced many homebuyers to begin looking at new construction.** Seeing your home built before your eyes is a wonderful experience, but new construction purchases often come with unique hassles. If you're ready to build your next home, let's get together so we can help ensure that your next home-buying experience is hassle-free! To learn the 5 tips for buying new construction homes, watch this short video.&nbsp;
 
 {% include pullquote.html %}
