@@ -11,7 +11,7 @@ pullquote: Waiting until spring to list your home means more competition!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/best-time-to-sell-home.jpg
+youtube_alternate_image: /uploads/chrome-2018-12-26-15-40-57.png
 youtube_code: 'https://youtu.be/wCvnqSgutS0'
 ---
 
