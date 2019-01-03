@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/chris-remmes-what-to-ask-during-your-house-hunt-youtube-1.jpg
+youtube_alternate_image: /uploads/chris-remmes-what-to-ask-during-your-house-hunt-headshot-.jpg
 youtube_code: 'https://youtu.be/--kLhpfACIg'
 ---
 
