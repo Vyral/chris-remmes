@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have a Happy and Safe Thanksgiving
-date: 2018-11-16 14:25:03
+date: 2018-11-16 14:25:00
 tags:
 excerpt: Wishing you a wonderful holiday season
 enclosure:
@@ -9,7 +9,7 @@ pullquote: Happy Thanksgiving from Coldwell Banker
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/chris-remmes-holiday-season-youtube.jpg
+youtube_alternate_image: /uploads/chris-remmes-holiday-season-2-0-youtube.jpg
 youtube_code: 'https://youtu.be/LQyrLXDSLOg'
 ---
 
