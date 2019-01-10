@@ -13,8 +13,8 @@ enclosure: >-
 pullquote: People buy and sell real estate 12 months a year.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/chris-remmes-boston-area-market-youtube.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/chris-remmes-boston-area-market-youtube-2-0.jpg
 youtube_code: 'https://youtu.be/gIkW6ez2k2g'
 ---
 
