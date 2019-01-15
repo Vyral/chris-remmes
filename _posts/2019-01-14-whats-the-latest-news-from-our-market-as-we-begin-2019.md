@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/dvc4Xksysrk'
 
 What’s happening in our market now that the holidays are gone and 2019 has officially begun?&nbsp;
 
-At the end of last year, our market started to shift into what I call the “new market.” In the “old market,” there was a lot of energy and a lot of multiple-offer situation happening, but **in the “new market,” inventory is slowly rising and we’re starting to see price reductions.** Now, buyers are pulling back and taking their time buying homes.
+At the end of last year, our market started to shift into what I call the “new market.” In the “old market,” there was a lot of energy and a lot of multiple-offer situations happening, but **in the “new market,” inventory is slowly rising and we’re starting to see price reductions.** Now, buyers are pulling back and taking their time buying homes.
 
 {% include pullquote.html %}
 
