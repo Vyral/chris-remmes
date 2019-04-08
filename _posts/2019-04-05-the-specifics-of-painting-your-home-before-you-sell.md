@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/5H2L2Md5wlI'
 
 {% include youtube.html %}
 
-Today we’ll look at one area of home improvement that home sellers are typically concerned about prior to listing: **painting your home.**&nbsp;
+Today we’ll look at one area of home improvement that home sellers typically ask me about prior to listing their home: **painting your home.**&nbsp;
 
 **My answer is almost always “yes” when I’m presented with the question of whether to paint.** It’s very inexpensive, and it’s worth the effort to make the house feel refreshed, cleaner, and newer.&nbsp;
 
