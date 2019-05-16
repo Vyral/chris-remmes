@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Curious About Your Home’s Value?
-date: 2019-05-16 19:35:18
+date: 2019-05-15 19:35:00
 tags:
   - Real Estate
   - Home Seller Tips
