@@ -35,6 +35,6 @@ Therefore, it takes a true expert to help you nail down what your home is worth 
 
 **4\. Expired or canceled listings.** As important as it is to understand what does work in our market, it’s also important to know what doesn’t. Studying data from recently canceled listings can help inform your own pricing strategy.&nbsp;
 
-With these four tips in mind, you may still be wondering if using an online valuation tool could be equally effective. Unfortunately, no. These algorithms are often flawed and tend to use outdated (or simply inadequate) data to generate figures that more than often miss the mark. Truly, only an experienced local agent can tell you what your home is worth right now.
+With these four tips in mind, you may still be wondering if using an online valuation tool could be equally effective. Unfortunately, no. These algorithms are often flawed and tend to use outdated (or simply inadequate) data to generate figures that more often than not miss the mark. Truly, only an experienced local agent can tell you what your home is worth right now.
 
 If you have any other questions, would like more information, or would like to speak about your home’s value, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
