@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Top 5 Reasons to Own A Home
 date: 2019-05-28 00:00:00
 tags:
   - Real Estate
