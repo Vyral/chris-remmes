@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-remmes-make-your-offer-the-only-one-that-counts-youtube.jpg
-youtube_code: 'https://youtu.be/9G63BUgkFxs'
+youtube_code: 'https://youtu.be/PgGSa-1_4lw'
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ Before anything else, hire an experienced agent who can help you go over the hom
 
 Now, where do you start once it’s time to make an offer?
 
-First, **go over the neighborhood comps and figure out your finishing price.** Just because you don’t start out in a multiple-offer situation doesn’t mean a bidding war won’t happen so it’s important to know where you want to finish with your offer price.
+First, **go over the neighborhood comps and figure out your finishing price.** Just because you don’t start out in a multiple-offer situation doesn’t mean a bidding war won’t happen, so it’s important to know where you want to finish with your offer price.
 
 {% include pullquote.html %}
 
@@ -40,6 +40,6 @@ After that, **think about your offer’s contingencies.** For example, a lot of 
 
 You can also waive your home inspection, but I don’t recommend doing so, because an inspection lets you know what you’re getting into and goes a long way in providing peace of mind.&nbsp;
 
-Lastly, **consider doing a rent-back.** A lot of buyers are also sellers, and a rent-back agreement allows your seller to live in their home after its sold so they can close on their new home.&nbsp;
+Lastly, **consider doing a rent-back.** A lot of buyers are also sellers, and a rent-back agreement allows your seller to live in their home after it's sold so they can close on their new home.&nbsp;
 
 If you’d like to know more about how to craft the best possible offer or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.&nbsp;<br>&nbsp;
