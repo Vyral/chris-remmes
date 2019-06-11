@@ -1,6 +1,6 @@
 ---
 layout: post
-title: These Tips Will Help You Make the Best Offer Possible
+title: Quick Tips for Making an Offer
 date: 2019-05-29 00:00:00
 tags:
   - Real Estate
