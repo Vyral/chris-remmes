@@ -32,7 +32,7 @@ The reason why you need to get pre-approved before doing anything else is that i
 
 Today’s mortgage industry isn’t like it was 15 to 30 years ago where one size fit all. There are many different companies and programs available to choose from these days, and **it’s best to talk to more than one mortgage broker before you make a decision about who to work with.** It’s wise to establish a relationship with your broker so that when it comes to a property you like, you’ll know whether or not you’re likely to get a loan for it.
 
-Another reason that getting pre-approved is so important is that, at some point, you’ll hand over all your financial information to the mortgage broker, so **you should make sure that you feel comfortable with them,** that you’re able to communicate well with them, and that they’re responsive to you.
+Another reason that getting pre-approved is so important is that, at some point, you’ll hand over all your financial information to the mortgage broker. **Y****ou should make sure that you feel comfortable with them,** that you’re able to communicate well with them, and that they’re responsive to you.
 
 Just like your real estate agent and your attorney, a mortgage broker is a very important part of the team who will help you to buy your next property. **It’s vital that all members of your team are able to work together to protect your best interests and to move the ball forward so that you can finish your transaction smoothly and quickly.**
 
