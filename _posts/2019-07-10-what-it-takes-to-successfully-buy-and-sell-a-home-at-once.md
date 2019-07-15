@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/chris-remmes-how-to-skillfully-buy-and-sell-a-home-at-the-same-time-youtube.jpg
-youtube_code: 'https://youtu.be/TRQV0agnMoU'
+youtube_code: 'https://youtu.be/2TDS1RLDgT4'
 ---
 
 {% include youtube.html %}
