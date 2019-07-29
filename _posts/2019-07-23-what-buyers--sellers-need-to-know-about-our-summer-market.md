@@ -33,7 +33,7 @@ These numbers indicate that buyers are being a little more cautious out there be
 What does this mean if you’re a seller? **If you want to sell quickly and for top dollar, remember the three P’s:**
 
 * Pick an experienced agent who has their finger on the pulse of the market.
-* Prepare your property for the market—you only get one chance at a first impression,s o make sure it’s staged, has great photos, etc.
+* Prepare your property for the market—you only get one chance at a first impression, so make sure it’s staged, has great photos, etc.
 * Price it right. You can’t underprice or overprice a home in today’s market. Buyers will make an offer on your property if they see value in it, and there’s nothing better than having an offer in hand the weekend after your open house.&nbsp;
 
 If you’re a buyer, things aren’t happening as quickly as they used to, but you still have to be on the ball, and it’s OK to be a little more cautious. As I’ve said before, the market has been normalizing over the past nine to 12 months, and these trends are in line with this overall pattern.&nbsp;
