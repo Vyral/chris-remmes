@@ -31,7 +31,7 @@ If you’re a buyer, it’s always important to discuss the whole home buying pr
 
 {% include pullquote.html %}
 
-Between then, you’ll have to deal with the appraisal and gathering all necessary paperwork the bank asks from you. Once you get the mortgage contingency taken care of, you’ll close on the home roughly 10 to 14 days later.&nbsp;
+Between then, you’ll have to deal with the appraisal and gathering all necessary paperwork the bank requires from you. Once you get the mortgage contingency taken care of, you’ll close on the home roughly 10 to 14 days later.&nbsp;
 
 **If you’re a seller, you want the mortgage contingency to expire as soon as possible,** because the buyer can back out of the deal up until the mortgage contingency date if the bank says they don’t qualify for a mortgage. This can be very stressful if you have your moving arrangements already scheduled, so make sure you talk to your Realtor about this.&nbsp;
 
