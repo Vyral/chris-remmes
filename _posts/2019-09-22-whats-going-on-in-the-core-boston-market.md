@@ -47,11 +47,11 @@ Sellers often ask about how long they’ll need to wait before they see an offer
 
 **What’s the list-to-sales price ratio?**
 
-In 2018, sellers were getting 102% of their list prices on average. As of this past August, they’re getting just under 100% of their list price. That means that many units selling for more than their asking price. In turn, that means it’s now more important than ever to price your home correctly in the beginning.&nbsp;
+In 2018, sellers were getting 102% of their list prices on average. As of this past August, they’re getting just under 100% of their list price. That means that many units are selling for more than their asking price. In turn, that means it’s now more important than ever to price your home correctly in the beginning.&nbsp;
 
 **How does Charlestown differ from the rest of the market?**
 
-Contrary to the rest of the market, inventory in Charlestown is on the decline. Year-over-year, it’s down by about 5%. Similarly, the days on market is falling as well. Why is that? Well, the market isn’t progressing as quickly there as it is in the rest of the core Boston area. Occurrences like demonstrate why it’s good to have a knowledge of the general market as well as more specific areas.&nbsp;
+Contrary to the rest of the market, inventory in Charlestown is on the decline. Year over year, it’s down by about 5%. Similarly, the days on market is falling as well. Why is that? Well, the market isn’t progressing as quickly there as it is in the rest of the core Boston area. Occurrences like this demonstrate why it’s good to have a knowledge of the general market as well as more specific areas.&nbsp;
 
 In the end, the main takeaway from this update should be that the market is becoming more normal. However, it’s a great time to be a buyer because with our historically low interest rates, your purchasing power is increasing. For sellers, the arrival of the fall market means you’ll be able to sell with less competition from other sellers. If you have a nice property in a good location and you’ve presented it well, you’ll do just fine.
 
