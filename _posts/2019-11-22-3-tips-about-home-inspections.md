@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips About Home Inspections
-date: 2019-11-22 17:52:41
+date: 2019-11-22 17:52:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -31,9 +31,7 @@ The home inspection process is a very high-stakes part of a real estate transact
 
 **3\. Provide relevant information to the inspector and buyer.** If you have receipts for any work you’ve had done recently, those are useful to show to both the inspector and buyer.
 
-{% include pullquote.html %}&nbsp;
-
-Now, if you’re a buyer, you’ll want to be sure to pick a good inspector. I’d be happy to give you the names of some inspectors I know and trust. **Here are a few points buyers will need to keep in mind:**
+{% include pullquote.html %}<br><br>Now, if you’re a buyer, you’ll want to be sure to pick a good inspector. I’d be happy to give you the names of some inspectors I know and trust. **Here are a few points buyers will need to keep in mind:**
 
 **1\. Show up and pay attention.** The inspection is one of your closing costs and can range between $500 and $1,500, depending on the kind of house you’re buying. You’re paying a lot of money for this process, so be sure to pay close attention to the information the inspector passes on to you.
 
