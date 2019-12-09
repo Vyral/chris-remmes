@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Work With Us? Check Out This Article in “Top Agent Magazine”
-date: 2019-12-05 16:45:42
+date: 2019-12-05 16:45:00
 tags:
   - Real Estate
 excerpt:
@@ -22,8 +22,8 @@ Recently, the Remmes Group was featured in an article in “Top Agent Magazine�
 
 {% include pullquote.html %}
 
-“*\[...\] While The Remmes Group could easily rest on its successful laurels, Chris, Sheila, and Jack continue to enhance and refine the systems and protocols that have set their team head and shoulders above their competition. However, they are committed to never losing the personal touch that their clients appreciate so greatly. ‘Being able to help someone with what might be the biggest sale or purchase of their lifetimes,’ says Sheila, ‘is truly an honor.*’”
+“*\[…\] While The Remmes Group could easily rest on its successful laurels, Chris, Sheila, and Jack continue to enhance and refine the systems and protocols that have set their team head and shoulders above their competition. However, they are committed to never losing the personal touch that their clients appreciate so greatly. ‘Being able to help someone with what might be the biggest sale or purchase of their lifetimes,’ says Sheila, ‘is truly an honor.*’”
 
-We truly appreciate these sentiments that were featured in “Top Agent Magazine.**” Be sure to check out the full article to learn about how our team formed, our track record of success, and all ways that we’ll go the extra mile for you** to ensure that your next real estate transaction is successful.
+We truly appreciate these sentiments that were featured in “Top Agent Magazine.**” Be sure to check out the [full article](/The_Remmes_Group.pdf) to learn about how our team formed, our track record of success, and all ways that we’ll go the extra mile for you** to ensure that your next real estate transaction is successful.
 
 If you have any questions about real estate—no matter if you’re buying, selling, or investing—please call (617) 398-0018 or email [Chris.Remmes@nemoves.com](mailto:Chris.Remmes@nemoves.com). We’d love to help you.
