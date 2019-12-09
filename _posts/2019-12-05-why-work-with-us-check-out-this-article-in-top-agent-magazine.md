@@ -4,7 +4,9 @@ title: Why Work With Us? Check Out This Article in “Top Agent Magazine”
 date: 2019-12-05 16:45:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Check out these excerpts from an article featured in “Top Agent Magazine”
+  about the Remmes Group!
 enclosure:
 pullquote: >-
   We truly appreciate these sentiments that were featured in “Top Agent
