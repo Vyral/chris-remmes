@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays!
-date:
+date: 2019-12-17 20:05:11
 tags:
   - Real Estate
 excerpt: >-
