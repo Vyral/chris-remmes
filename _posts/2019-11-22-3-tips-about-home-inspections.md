@@ -23,6 +23,8 @@ youtube_code: 'https://youtu.be/J2c3tRAyEGw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Whether you’re a buyer or a seller, today I’ll provide you with some helpful tips about the home inspection process. Learn what you need to know here.</em></p>
+
 The home inspection process is a very high-stakes part of a real estate transaction both for buyers and sellers. If you’re a seller, you’ll have the inspector going through your home, examining things, and asking you lots of questions. **Here are three things that sellers can do before a home inspection to keep you organized and to ensure the process goes smoothly:**
 
 **1\. Hire a professional to service your HVAC system.** It always looks good to a home inspector if they see you’ve recently had it looked over. Even though buyers might not ask to have that done, it’s good to be one step ahead anyway.
