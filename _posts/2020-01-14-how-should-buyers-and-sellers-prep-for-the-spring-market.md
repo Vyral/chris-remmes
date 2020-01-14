@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should Buyers and Sellers Prep for the Spring Market?
-date: 2020-01-14 16:27:41
+date: 2020-01-14 16:27:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
