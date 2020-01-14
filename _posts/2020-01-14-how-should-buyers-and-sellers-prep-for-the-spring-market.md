@@ -19,7 +19,9 @@ youtube_alternate_image: >-
 youtube_code: HfjNDn3DiVw
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>If you plan on buying or selling during the spring market, there are a few things you need to do right now.</em></p>
 
 The spring market is right around the corner, so whether you plan on buying or selling this spring, there are a few things you need to do *right* *now*.&nbsp;
 
