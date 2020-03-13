@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s what buyers and sellers need to know about multiple-offer situations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Remmes/2020/Videos/March/How+Buyers+%26+Sellers+Should+Approach+Multiple-Offer+Situations.mp4
 pullquote: The offer price for a home that’s priced correctly is almost the minimum bid.
 enclosure_type: video/mp4
 enclosure_time:
