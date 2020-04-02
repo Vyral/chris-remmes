@@ -1,16 +1,19 @@
 ---
 layout: post
-title: 'How the Coronavirus Has Affected the Real Estate Market '
-date:
+title: How the Coronavirus Has Affected the Real Estate Market
+date: 2020-04-02 20:02:02
 tags:
-excerpt:
+  - Market Update
+excerpt: >-
+  The coronavirus has caused our market to slow down, but this won’t last
+  forever.
 enclosure:
 pullquote: 'We’ve seen the market slow down, but it hasn’t stopped.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/covid-19-and-our-market-yt.jpg
+youtube_code: kOYcD-l5ugY
 ---
 
 {% include youtube.html %}
