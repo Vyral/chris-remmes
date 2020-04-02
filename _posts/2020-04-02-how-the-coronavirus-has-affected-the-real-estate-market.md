@@ -19,7 +19,7 @@ youtube_code: kOYcD-l5ugY
 
 {% include youtube.html %}
 
-<p style="text-align:center">The coronavirus has caused our market to slow down, but this won’t last forever.</p>
+<p style="text-align:center"><em>The coronavirus has caused our market to slow down, but this won’t last forever.</em></p>
 
 How is the coronavirus affecting our real estate market?
 
