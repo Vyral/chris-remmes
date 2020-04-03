@@ -27,7 +27,7 @@ It’s a tough time for everyone, but it’s particularly tough for buyers and s
 
 **This won’t last forever, and those of us in the industry are being as safe and responsible as we can be.**&nbsp;
 
-For example, a client of mine recently decided to sell their rental property after their tenant’s lease ended. Because we knew things were slowing down, we planned to get the property on the market early. The first weekend the tenant was out of town, we held a series of private showings for the home (open houses are against CDC and NAR guidelines). During each showing, the buyers and I observed social distancing protocol and nobody touched anything. After the showings, I resanitized every inch of the house, which the tenant and the owner appreciated.&nbsp;
+For example, a client of mine recently decided to sell their rental property after their tenant’s lease ended. Since we knew things were slowing down, we planned to get the property on the market early. The first weekend the tenant was out of town, we held a series of private showings for the home (open houses are against CDC and NAR guidelines). During each showing, the buyers and I observed social distancing protocol and nobody touched anything. After the showings, I resanitized every inch of the house, which the tenant and the owner appreciated.&nbsp;
 
 {% include pullquote.html %}
 
