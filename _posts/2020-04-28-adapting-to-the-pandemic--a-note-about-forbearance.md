@@ -19,6 +19,6 @@ youtube_code: J0KIwWObuDU
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how we’ve adapted to the change, as well as a few key points regarding mortgage forbearances.</p>
+<p style="text-align:center"><em>Here’s how we’ve adapted to the change, as well as a few key points regarding mortgage forbearances.</em></p>
 
 As an essential business, real estate will continue to operate during the pandemic. That has required some pretty extensive changes on the part of agents and brokerages, so today I want to share some of what we’ve been doing to adapt to these challenging times, as well as a few key points to keep in mind when it comes to mortgage forbearance. Forbearance is a topic you’ve probably heard a lot about in recent days since many banks are offering it. I’ll tell you what forbearance is and what it means to you. To learn more, watch the short video above.
