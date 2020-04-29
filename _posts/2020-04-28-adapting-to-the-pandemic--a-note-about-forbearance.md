@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adapting to the Pandemic & A Note About Forbearance
+title: Adapting to the Pandemic & a Note About Forbearance
 date: 2020-04-28 20:38:00
 tags:
   - Real Estate
