@@ -15,7 +15,7 @@ youtube_code: JxV5zODoQ5c
 
 {% include youtube.html %}
 
-<center>Lawyer Ali Alivi answers legal questions about real estate amid COVID-19.</center>
+<center><em>Lawyer Ali Alivi answers legal questions about real estate amid COVID-19.</em></center>
 
 &nbsp;
 
