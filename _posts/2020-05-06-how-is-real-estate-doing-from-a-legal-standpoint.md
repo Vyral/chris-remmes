@@ -3,6 +3,7 @@ layout: post
 title: How Is Real Estate Doing From a Legal Standpoint?
 date: 2020-05-06 17:59:00
 tags:
+  - Market Update
 excerpt: Lawyer Ali Alivi answers legal questions about real estate amid COVID-19.
 enclosure:
 pullquote:
