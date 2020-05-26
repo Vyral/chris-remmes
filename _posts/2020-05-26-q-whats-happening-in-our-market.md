@@ -17,6 +17,6 @@ youtube_code: 618T7i36scI
 
 {% include youtube.html %}
 
-Since our market bottomed out in April, things have improved significantly.
+<p style="text-align:center">Since our market bottomed out in April, things have improved significantly.</p>
 
 We started seeing the effects of the COVID-19 pandemic in early March. New listings and closings dropped off, and things bottomed out in early April. At that point, real estate was declared an essential business and we started to get a hang of the new normal when it comes to showing properties safely and keeping our clients healthy. Since then, listings and closings have gone up. In the last few weeks, the market has snapped back due to pent-up demand. To learn more about what our real estate market looks like right now, watch this short video.
