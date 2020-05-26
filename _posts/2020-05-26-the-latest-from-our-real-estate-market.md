@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Latest From Our Real Estate Market
+title: Q: What’s Happening in Our Market?
 date: 2020-05-26 20:35:13
 tags:
   - Market Update
