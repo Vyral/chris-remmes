@@ -16,6 +16,6 @@ youtube_code: nO2_6rYW0jE
 
 {% include youtube.html %}
 
-Enjoy Frank Addonizio of Ameriprise Services’ prudent investment tips.
+<p style="text-align:center">Enjoy Frank Addonizio of Ameriprise Services’ prudent investment tips.</p>
 
 There’s a lot going on in the world right now with COVID-19, social unrest, and a turbulent economy. To help answer some of the questions you may have about what’s going on in the markets, I sat down with my good friend and financial planner Frank Addonizio for some sharp insight. There’s no doubt that the recent stock market swings have been unsettling for many. That being said, it’s essential to ensure that your investments are well-positioned and in line with your risk tolerance and time horizon. To hear Frank address common homeowner concerns and the importance of regular rebalancing, watch the short video above.
