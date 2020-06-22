@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Should You Handle Your Investments Right Now?'
-date: 2020-06-22 19:28:11
+date: 2020-06-22 19:28:00
 tags:
 excerpt: Enjoy Frank Addonizio of Ameriprise Services’ prudent investment tips.
 enclosure: >-
@@ -15,8 +15,6 @@ youtube_code: nO2_6rYW0jE
 ---
 
 {% include youtube.html %}
-
-&nbsp;
 
 Enjoy Frank Addonizio of Ameriprise Services’ prudent investment tips.
 
