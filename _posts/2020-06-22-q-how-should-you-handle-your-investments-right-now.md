@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/frank-yt-chris-remmes.jpg
-youtube_code: nO2_6rYW0jE
+youtube_code: PZ8N4rHoAgY
 ---
 
 {% include youtube.html %}
