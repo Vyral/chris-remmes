@@ -17,7 +17,7 @@ youtube_code: Z0y3YOIjfss
 
 {% include youtube.html %}
 
-These are things every home seller should consider when weighing offers.
+<p style="text-align:center">These are things every home seller should consider when weighing offers.</p>
 
 When you receive an offer on your home for sale, there are many things that you’ll need to consider. **The first important thing to understand is that it’s not all about the price.** We have to think about more than that.
 
