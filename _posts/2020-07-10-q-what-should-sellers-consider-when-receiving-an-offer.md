@@ -29,6 +29,6 @@ Once we decide we have a good offer with a good price, the next thing that needs
 
 After we get the financing locked down, we’ll take a look at dates. The closing date is important, but we also want to make sure things don’t drag on too long. Until we sign the purchase agreement, the buyer has a lot of different options if they want to back out. **Once you sign the offer as a seller, it’s very hard for you to get out of a deal.&nbsp;**
 
-Anywhere from 7 to 10 days after a buyer signs an offer, we’ll have them sign a purchase and seal agreement, they will put another deposit down of 5%, and the only contingency they will have is the mortgage contingency. We want the mortgage contingency to expire three weeks after we sign the purchase and seal agreement. As a seller, you want this to expire as soon as possible. Any good bank should be able to turn one around in three weeks.
+Anywhere from seven to ten days after a buyer signs an offer, we’ll have them sign a purchase and seal agreement, they will put another deposit down of 5%, and the only contingency they will have is the mortgage contingency. We want the mortgage contingency to expire three weeks after we sign the purchase and seal agreement. As a seller, you want this to expire as soon as possible. Any good bank should be able to turn one around in three weeks.
 
 If you have any questions for me about receiving an offer or anything else related to real estate, don’t hesitate to contact me via phone or email. I look forward to hearing from you.
