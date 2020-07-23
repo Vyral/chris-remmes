@@ -17,7 +17,7 @@ youtube_code: YDXwWqHnfKc
 
 {% include youtube.html %}
 
-The latest stats point to a seller’s market here in Boston.
+<p style="text-align:center">The latest stats point to a seller’s market here in Boston.</p>
 
 The second-quarter stats are in for our Boston real estate market. What do they tell us?
 
