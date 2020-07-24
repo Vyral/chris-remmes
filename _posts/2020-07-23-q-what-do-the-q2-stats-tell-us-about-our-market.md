@@ -12,14 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/q2-2020-yt-chris-remmes.jpg
-youtube_code: YDXwWqHnfKc
+youtube_code: OUeJSCO3Vug
 ---
 
 {% include youtube.html %}
 
 <p style="text-align:center"><em>The latest stats point to a seller’s market here in Boston.</em></p>
 
-The second-quarter stats are in for our Boston real estate market. What do they tell us?
+The second quarter stats are in for our Boston real estate market. What do they tell us?
 
 If you follow the news, it’s easy to get the impression that things aren’t going well, but if you’re a buyer or seller who follows the market itself, you’re hearing a much different story.&nbsp;
 
