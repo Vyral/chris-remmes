@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: What’s Currently Driving Our Market?'
-date: 2020-08-07 15:48:15
+date: 2020-08-07 15:48:00
 tags:
   - Market Update
 excerpt: Here are the three driving factors in our Boston market right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Remmes/2020/Videos/August/Q-+Whats+Currently+Driving+Our+Market_.mp4
 pullquote: >-
   Possibly as much as 30% of the workforce is going to be working remotely
   post-pandemic.
