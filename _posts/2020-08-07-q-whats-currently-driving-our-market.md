@@ -19,7 +19,7 @@ youtube_code: cybPAVn8GUU
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here are the three driving factors in our Boston market right now.</p>
+<p style="text-align:center"><em>Here are the three driving factors in our Boston market right now.</em></p>
 
 Today I want to share three factors that are affecting the residential real estate market—those that are driving the market during the health crisis.&nbsp;
 
