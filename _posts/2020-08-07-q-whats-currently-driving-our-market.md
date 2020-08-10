@@ -21,7 +21,7 @@ youtube_code: cybPAVn8GUU
 
 <p style="text-align:center"><em>Here are the three driving factors in our Boston market right now.</em></p>
 
-Today I want to share three factors that are affecting the residential real estate market—those that are driving the market during the health crisis.&nbsp;
+Today I want to share the three factors driving the residential real estate market during this health crisis.&nbsp;
 
 The first factor that you haven’t heard much about in the media yet is the amount of commercial office space that’s available. After 9/11 in Boston, we saw that number hit about three million. Currently, we’re at about two million, and that’s up from the little over one million we had in the second quarter of the year. Many **companies are sending the message that they’re not going to be bringing their employees back to the office** in the same way as before the pandemic.&nbsp;
 
@@ -31,6 +31,6 @@ The next factor is the rental market. In Boston, we’re experiencing two and a 
 
 {% include pullquote.html %}
 
-The third factor is the large migration of young couples moving to the suburbs earlier than they would have in the past. That’s driven by their need for space; they want extra bedrooms, space to work from home, and outdoor areas. Smaller living space for couples isn’t working anymore.&nbsp;
+The third factor is the large migration of young couples to the suburbs earlier than they would have in the past. That’s driven by their need for space; they want extra bedrooms, space to work from home, and outdoor areas. Smaller living space for couples isn’t working anymore.&nbsp;
 
 If you have questions about these three factors or real estate in general, you can always reach out to me via phone or email. I’d be happy to help you.
