@@ -19,7 +19,7 @@ youtube_code: wrSDJ3RjwXo
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Here are some of the main ways working from home has impacted real estate.</p>
+<p style="text-align:center;"><em>Here are some of the main ways working from home has impacted real estate.</em></p>
 
 How has the shift to working from home impacted real estate trends? In the rental market, particularly younger workers no longer need to rent an apartment in the city because they’re living with their parents, who are down at the beach house, riding out this turbulent time. A lot of the colleges in Boston aren’t welcoming back students for in-person learning, so a lot of these **online students don’t see a need to live close to campus or rent in the city.** As such, we’ve seen the rental inventory increase significantly, which has practically turned that market on its head.
 
