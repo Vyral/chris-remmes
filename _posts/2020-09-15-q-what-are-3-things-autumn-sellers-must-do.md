@@ -17,7 +17,7 @@ youtube_code: 3we_19aSIFc
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Here are three tips for maximizing your home sale this fall.</p>
+<p style="text-align:center;"><em>Here are three tips for maximizing your home sale this fall.</em></p>
 
 If you plan to list your home on this fall market, you need to take into account how people’s housing needs have changed now that we’re six months into this pandemic. There are three things you need to do as a seller, and each one underscores the importance of returning to the basics. In times of uncertainty and change, it’s all about getting the fundamentals down pat.&nbsp;
 
