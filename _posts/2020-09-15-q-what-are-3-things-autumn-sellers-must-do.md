@@ -29,6 +29,6 @@ After that, you’ll need to **stage your house properly.** In this era of COVID
 
 Lastly, it’s always important to **price your home correctly.** With that stellar agent you found, you’ll go through comps on the market to make sure you price your home right the first time. In this pandemic, listings become stale after the first week or so, so getting an offer as quickly as possible is the goal. The market is hot and properties are moving quickly, so you need to make sure everything is in order before you go live.&nbsp;
 
-Here’s a bonus market trend to consider: the rental market is seeing an uptick in vacancies, and that’s creating a lot of unique opportunities. **Rental properties are a great investment;** if, for example, you’re a Boston parent who’s gearing up to send your kid to college, now might be the time to buy a place where you can park your kid for three of four years and generate some passive income even after their college days are done.&nbsp;
+Here’s a bonus market trend to consider: The rental market is seeing an uptick in vacancies, and that’s creating a lot of unique opportunities. **Rental properties are a great investment;** if, for example, you’re a Boston parent who’s gearing up to send your kid to college, now might be the time to buy a place where you can park your kid for three of four years and generate some passive income even after their college days are done.&nbsp;
 
 As always, feel free to reach out if you have any questions about buying or selling this fall. I look forward to hearing from you soon\!
