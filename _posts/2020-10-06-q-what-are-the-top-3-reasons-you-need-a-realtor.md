@@ -18,7 +18,7 @@ youtube_code: sOYGdyTJcFI
 
 {% include youtube.html %}
 
-*Here are the three reasons why you need a Realtor in your corner.*
+<p style="text-align:center;"><em> Here are the three reasons why you need a Realtor in your corner</em></p>
 
 Today I’ll answer an important question for buyers and sellers: Why should you hire a Realtor? There are three reasons, in particular:&nbsp;
 
