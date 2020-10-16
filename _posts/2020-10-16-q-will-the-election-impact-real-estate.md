@@ -18,13 +18,13 @@ youtube_code: AYVrAPxjvXI
 
 {% include youtube.html %}
 
-Here’s what the experts say about the election’s impact on the market.
+<p style="text-align:center;"><em>Here’s what the experts say about the election’s impact on the market.</em></p>
 
 How will the presidential election impact real estate? We know **2020 has been one heck of a year** with the pandemic, the resulting economic slowdown, lockdowns, and more. However, Frank Martell, president and CEO of CoreLogic, said,“ On an aggregated level, the housing economy remains rock solid despite the shock and awe of the pandemic.” The next large 2020 event that could impact real estate is the upcoming presidential election, and people are concerned.&nbsp;
 
 First of all, in the early days of the health crisis, people thought it was going to have a huge effect on foreclosures—that we would see many of them come onto the market. However, economists are saying something different. Jeff Ostrowski, senior mortgage reporter at Bankrate, says it well:&nbsp;
 
-*“The COVID-19 pandemic will lead to a rise in mortgage defaults and foreclosures. But as the housing market muscles through this economic downturn, it looks as if foreclosures will form a trickle rather than a flood, housing experts say.”*&nbsp;
+<p style="text-align:center;"><em>“The COVID-19 pandemic will lead to a rise in mortgage defaults and foreclosures. But as the housing market muscles through this economic downturn, it looks as if foreclosures will form a trickle rather than a flood, housing experts say.”</em></p>&nbsp;
 
 This is due in part to the government allowing forbearance. Right now, **the economy is slowly getting better,** the housing market’s been strong all along, and low mortgage rates are converting prospective buyers into active ones. Interest rates are currently driving the market by giving buyers more purchasing power, and we’re seeing very strong demand. Consumer confidence and sentiment have been increasing in both the economy and housing market.&nbsp;
 
