@@ -16,9 +16,9 @@ youtube_code: T9ZBfTEKE38
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what you need to know about Boston real estate heading into Q4.</em></p>
+*Here’s what you need to know about Boston real estate heading into Q4.*
 
-Many of you may have a good idea of what you think’s going on in the real estate market, but it’s always good to see it backed up by hard facts and numbers.
+Many of you may have a good idea of what's going on in the real estate market, but it’s always good to see it backed up by hard facts and numbers.
 
 The first number I want to mention is something I was happy to see: **The number of sales in Q3 of 2020 was nearly identical to the number of sales we saw in Q3 2019.** We caught back up to where we were before the pandemic. People are still buying in the city, although it’s taking those homes and condos a little longer to sell. As far as closings are concerned, we also remained flat from Q3 2019 to Q3 2020. That’s good news.
 
