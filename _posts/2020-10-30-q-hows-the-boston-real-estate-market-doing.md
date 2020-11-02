@@ -16,7 +16,7 @@ youtube_code: T9ZBfTEKE38
 
 {% include youtube.html %}
 
-*Here’s what you need to know about Boston real estate heading into Q4.*
+<p style="text-align:center;"><em>Here’s what you need to know about Boston real estate heading into Q4.</em></p>
 
 Many of you may have a good idea of what's going on in the real estate market, but it’s always good to see it backed up by hard facts and numbers.
 
