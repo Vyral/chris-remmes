@@ -16,7 +16,7 @@ youtube_code: Vb0rw_ucaeg
 
 {% include youtube.html %}
 
-Here’s a look at my predictions for the 2021 housing market.
+<p style="text-align:center;"><em>Here’s a look at my predictions for the 2021 housing market.</em></p>
 
 Last time, we dove deep into the third-quarter statistics for 2020, so if you missed that video, you can watch it here. In 2020, the pandemic and recession sowed chaos basically everywhere, but the housing market remained very resilient.&nbsp;
 
