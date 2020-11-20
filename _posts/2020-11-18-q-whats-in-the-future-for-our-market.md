@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s in the Future for Our Market?
+title: 'Q: What’s in the Future for Our Market?'
 date: 2020-11-18 14:26:00
 tags:
 excerpt: Here’s a look at my predictions for the 2021 housing market.
@@ -16,7 +16,7 @@ youtube_code: Vb0rw_ucaeg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s a look at my predictions for the 2021 housing market.</em></p>
+*Here’s a look at my predictions for the 2021 housing market.*
 
 Last time, we dove deep into the third-quarter statistics for 2020, so if you missed that video, you can watch it [here](/everything-buyers-and-sellers-should-know-about-our-market.html){: target="_blank" rel="noopener"}. In 2020, the pandemic and recession sowed chaos basically everywhere, but the housing market remained very resilient.&nbsp;
 
