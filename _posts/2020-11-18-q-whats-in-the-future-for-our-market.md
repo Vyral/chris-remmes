@@ -16,9 +16,9 @@ youtube_code: Vb0rw_ucaeg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s a look at my predictions for the 2021 housing market.</em></p>
+*Here’s a look at my predictions for the 2021 housing market.*
 
-Last time, we dove deep into the third-quarter statistics for 2020, so if you missed that video, you can watch it here. In 2020, the pandemic and recession sowed chaos basically everywhere, but the housing market remained very resilient.&nbsp;
+Last time, we dove deep into the third-quarter statistics for 2020, so if you missed that video, you can watch it [here](/everything-buyers-and-sellers-should-know-about-our-market.html){: target="_blank" rel="noopener"}. In 2020, the pandemic and recession sowed chaos basically everywhere, but the housing market remained very resilient.&nbsp;
 
 **In 2021, experts forecast market appreciation anywhere from CoreLogic’s prediction of 0.2% up to Zillow’s 7%.** So in order to gauge where we’ll be, we need to look at the Boston market and examine each core market.
 
