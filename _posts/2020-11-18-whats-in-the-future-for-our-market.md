@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What’s in the Future for Our Market?'
+title: What’s in the Future for Our Market?
 date: 2020-11-18 14:26:00
 tags:
 excerpt: Here’s a look at my predictions for the 2021 housing market.
