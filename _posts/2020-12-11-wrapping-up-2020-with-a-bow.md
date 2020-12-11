@@ -18,7 +18,7 @@ youtube_code: 227FHtssK24
 
 {% include youtube.html %}
 
-My 2020 recap: It started out crazy, but we’re in a better place now.
+<p style="text-align:center;"><em>My 2020 recap: It started out crazy, but we’re in a better place now.</em></p>
 
 As we wrap up 2020, I want to take a look back at this chaotic year.&nbsp;
 
