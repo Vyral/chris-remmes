@@ -30,4 +30,4 @@ In January and February, we didn’t even know what the coronavirus was, and by 
 
 As we look forward to 2021, we can see the light at the end of the tunnel, but we still have to be smart and follow all health protocols. **I hope you have a joyful and healthy holiday season** and a fortunate 2021.&nbsp;
 
-If you ever have any questions about real estate, call or email me. Over the next couple of weeks if you don’t want to discuss real estate and just want to say hello, feel free to reach out as well. Happy holidays\!
+If you ever have any questions about real estate, call or email me. Over the next couple of weeks, if you don’t want to discuss real estate and just want to say hello, feel free to reach out as well. Happy holidays\!
