@@ -18,7 +18,7 @@ youtube_code: jQ_ep8Io29E
 
 {% include youtube.html %}
 
-Here’s a look at the big picture of what happened in our 2020 market.
+<p style="text-align:center;"><em>Here’s a look at the big picture of what happened in our 2020 market.</em></p>
 
 At 0:27 in the video above, you can see how the “V”-type recovery that was projected by major financial institutions (Goldman Sachs, JP Morgan, and Morgan Stanley) back in April turned out to be highly accurate; the actual GDP numbers did, in fact, increase rapidly in the second quarter. While the threat of COVID-19 hasn’t gone away, **we are nevertheless seeing some improvements in the economy, which is good news for the housing market.&nbsp;**
 
