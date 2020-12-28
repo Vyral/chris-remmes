@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Market Will We Bring Into the New Year?'
-date: 2020-12-18 10:26:00
+date: 2020-12-28 10:26:00
 tags:
 excerpt: Here’s a look at the big picture of what happened in our 2020 market.
 enclosure: >-
