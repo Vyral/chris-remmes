@@ -16,7 +16,7 @@ youtube_code: fxMCxi6JSdM
 
 {% include youtube.html %}
 
-If you’re selling in 2021, you need to start preparing now.
+<center><em>If you’re selling in 2021, you need to start preparing now.</em></center>
 
 By all accounts, we believe the real estate market is very strong. The economy is improving, interest rates are low, and inventory is very low. This bodes well for sellers, but if you’re thinking of selling your home soon, you need to think about how things will differ in 2021.
 
