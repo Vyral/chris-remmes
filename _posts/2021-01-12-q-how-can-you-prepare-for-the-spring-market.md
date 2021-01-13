@@ -16,11 +16,13 @@ youtube_code: fxMCxi6JSdM
 
 {% include youtube.html %}
 
-<center><em>If you’re selling in 2021, you need to start preparing now.</em></center>
+<center><em>If you&rsquo;re selling in 2021, you need to start preparing now.</em></center>
+
+<center>&nbsp;</center>
 
 By all accounts, we believe the real estate market is very strong. The economy is improving, interest rates are low, and inventory is very low. This bodes well for sellers, but if you’re thinking of selling your home soon, you need to think about how things will differ in 2021.
 
-2020 taught us that buyers are out there, but they’re looking online. They’re looking at fewer houses and following more video tours. You must keep this in mind as you get your home ready for sale. There are several other tips you can follow up on now that we’re still in the middle of winter to prep your home for the market:
+2020 taught us that buyers are out there, but they’re looking online. They’re looking at fewer houses and following more video tours. You must keep this in mind as you get your home ready for sale. Since we're still in the middle of winter, there are several tips that you can easily follow up on to prep your home for the spring market:&nbsp;
 
 **1\. Declutter.** Since it’s 2021, I’d say you need to uber-declutter because everything needs to look good on video. It takes time to declutter because there are always more things in your closets, drawers, etc., than you think there will be.
 
